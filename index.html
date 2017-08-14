@@ -240,6 +240,8 @@
                             <img src="img/portfolio/biosbeepcodes.jpg" class="img-responsive img-centered" alt="">
                             <p>BiosBeepCode ayuda a interpretar los sonidos de error de la BIOS en la secuencia arranque.</p>
                             <p>Bios Beep códigos recopila los códigos de error más comunes de los fabricantes de BIOS para ordenadores de forma que pueda corregir algunos errores de hardware. Debido a que hay muchas marcas de BIOS, no hay códigos de sonido estándar para cada BIOS. El significado de los códigos varía ampliamente dependiendo de la placa y el fabricante. Esta aplicación es útil cuando se necesita una guía de referencia rápida.</p>
+                            <p>La aplicación utiliza <a href="https://developer.yahoo.com/analytics/">Flurry Analytics</a> para recopilar estadísticas de uso de los usuarios.</p>
+
                             <a href="https://play.google.com/store/apps/details?id=es.smvarela.biosbeepcodes" class="btn btn-default">
                                 <i class="fa fa-download">
                                   <strong>
@@ -276,8 +278,11 @@
                             <p>Esta aplicación financiera permite controlar los precios actuales de cambio de Bitcoin y su evolución en el tiempo mediante graficas.
                             La pantalla principal muestra el precio actual de Bitcoin y el último, precios altos y bajos y las últimas 24 horas.
                             También se muestran los gráficos de evolucion del precio por lo que se puede ver cómo cambia el valor de Bitcoin en el tiempo. Se muestran graficas de cambio de diaria, mensual y la historia completa. En los gráficos se puede hacer zoom para ver la evolucion con mas detalle.</p>
-                            <p>Los datos de cotización se obtienen mediante las API públicas de varios proveedores (Bitcoinaverage, Bitstamp y Coindesk). Los datos históricos se almacenan de forma local en una base de datos SQlite para no tener que descargarlos cada vez que se abre la aplicación.</p>
-                            <p>Para mostrar los gráficos temporales se ha usado la librería externa <a href="https://github.com/lecho/hellocharts-android">Hellocharts</a>.</p>
+                            <p>La aplicación utiliza las API públicas de varios proveedores (Bitcoinaverage, Bitstamp y Coindesk) para descargar la valoración actual e histórica de Bitcoin. Cada proveedor devuelve los datos en su formato (JSON o CSV). Despues de formatearlos, se presentan en la pantalla principal de la aplicación y los datos historicos son almacenados en una base de datos local usando SQlite. De esta forma, no hace falta descargar el histórico completo del proveedor, solo los últimos cambios.</p>
+                            <p>Los gráficos donde se muestra la evolucion temporal se ha usado la librería externa <a href="https://github.com/lecho/hellocharts-android">Hellocharts</a>.</p>
+                            <p>Las llamadas a Internet para descargar datos se realizan mediante<a href="https://developer.android.com/training/volley/index.html"> Volley</a> y <a href="https://square.github.io/okhttp/"> OkHttp.</a> </p>
+                            <p>Tambien utiliza <a href="http://greenrobot.org/eventbus/">EventBus</a>para el paso de mensajes entre diferentes Activities y entre el cliente HTTP y Activities.</p>
+                            <p>Los datos estadísticos de los usuarios se recopilan y analizan usando la API de  <a href="https://firebase.google.com/docs/analytics/">Firebase Analytics.</a></p>
 
                             <a href="https://play.google.com/store/apps/details?id=es.smvarela.bitcurrency" class="btn btn-default">
                                 <i class="fa fa-download">
@@ -317,8 +322,8 @@
                             Admite 3 formatos de entrada diferentes para las coordenadas de latitud / longitud.
                             También puede introducir las coordenadas de forma dinámica utilizando el mapa. Arrastre y suelte el marcador por el mapa y las coordenadas (tanto geográficas como UTM) se actualizarán.
                             Las coordenadas pueden ser copiados al portapapeles con pulsación larga o compartirlas a través de SMS o correo electrónico.</p>
-                            <p>La aplicación utiliza geolocalización para encontrar la ubicación del usuario y Google Maps para mostrar su ubicación.</p>
-
+                            <p>La aplicacion utiliza la API de Google Play Services Location para hallar la ubicacion actual del usuario y la API de Google Maps Android para mostrar esta ubicación en un mapa. Tambien permite modificar la ubicacion del usuario en el mapa y recuperar sus coordenadas en esta nueva ubicación.</p>
+                            <p>Tambien utiliza <a href="http://greenrobot.org/eventbus/">EventBus</a> para el paso de mensajes entre diferentes Activities.</p>
                             <a href="https://play.google.com/store/apps/details?id=es.smvarela.coordtransform" class="btn btn-default">
                                 <i class="fa fa-download">
                                   <strong>
@@ -356,7 +361,9 @@
                             <p>Simula los efectos de una explosión nuclear.</p>
                             <p>Esta aplicación muestra cuánto daño podría causar un ataque nuclear. Mostrando el nivel de destrucción y la zona afectada que se produciría si la detonación de la bomba tuviera lugar a nivel del suelo.
                             Se muestran diferentes tipos de daño en un mapa para visualizar fácilmente la zona afectada. También se puede elegir cualquier destino en el mundo (buscando por país o ciudad, también arrastrando el marcador en el mapa), elegir de una lista las bombas nucleares conocidas (reales y con significado histórico) y a continuación simular los efectos.Arrastrando el marcador sobre el mapa permite cambiar dinámicamente la ubicación del centro de la detonación.</p>
-                            <p>La aplicación utiliza Google Maps y geolocalización para mostrar la ubicación del usuario y el radio afectado por la explosión.</p>
+                            <p>La aplicacion utiliza la API de Google Play Services Location para hallar la ubicacion actual del usuario, y la API de Google Maps Android para mostrar un mapa con la ubicacion del usuario. Tambien permite modificar la ubicacion del usuario en el mapa.</p>
+                            <p>Los datos estadisticos de los usuarios se recopilan y analizan usando la API de <a href="https://developers.google.com/analytics/devguides/collection/android/v4">Google Play Analytics.</a></p>
+
                             <a href="https://play.google.com/store/apps/details?id=es.smvarela.nukeblast" class="btn btn-default">
                                 <i class="fa fa-download">
                                   <strong>
