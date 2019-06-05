@@ -400,6 +400,11 @@ h6, .h6 {
   font-size: 1rem;
 }
 
+.footcredits {
+  font-size: 0.90rem;
+  font-weight: 300;
+}
+
 .lead {
   font-size: 1.25rem;
   font-weight: 300;
