@@ -111,3 +111,13 @@ appnexus.com, 13162, RESELLER, f5ab79cb980f11d1
 getmediamx.com, 620523, DIRECT
 appnexus.com, 12695, RESELLER, f5ab79cb980f11d1
 appnexus.com, 12366, RESELLER, f5ab79cb980f11d1
+uis.mobfox.com, 1033, RESELLER, 5529a3d1f59865be
+tpmn.io, 586, RESELLER
+onetag.com, 52a5b73146950c0, RESELLER
+gamoshi.io, 267-b4653, RESELLER, 20e30b2ae1f670f2
+bidence.com, 2a0f035ff1e4192cdf5e76edd58b5a18, RESELLER
+e-planning.net, 5bde1cdab289ed1f, RESELLER, c1ba615865ed87b2
+nobid.io, 22672201436, RESELLER
+adtarget.com.tr, 610649, RESELLER
+admatic.com.tr, adm-pub-185375301865, RESELLER
+appads.in, 107092, RESELLER
