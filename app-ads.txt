@@ -134,3 +134,25 @@ google.com, pub-4125454196932019, reseller, f08c47fec0942fa0
 admanmedia.com, 1009, reseller
 advlion.com, 3144, direct
 advlion.com, 3144, reseller
+adtarget.com.tr, 733270, direct
+admatic.com.tr, adm-pub-185375301865, direct
+improvedigital.com, 912, direct
+pubmatic.com, 159078, direct, 5d62403b186f2ace
+adform.com, 2600, direct
+stroeer.com, 17938, direct
+betweendigital.com, 44570, direct
+lunamedia.io, b51b97e00c4311ed932b0537b80d5e5f, direct, 524ecb396915caaf
+inmobi.com, ddb41d8a9f434a918d05a0fc9999d9f9, reseller, 83e75a7ae333ca9d
+pubmatic.com, 160493, reseller, 5d62403b186f2ace
+xandr.com, 12745, reseller, f5ab79cb980f11d1
+yahoo.com, 59627, reseller
+video.unrulymedia.com, 4631344382657206988, reseller
+rubiconproject.com, 24170, reseller, 0bfd66d529a55807
+conversantmedia.com, 100322, reseller, 03113cd04947736d
+themediagrid.com, r28i9j, reseller, 35d5010d7789b49d
+loopme.com, 11367, reseller, 6c8d5f95897a5a3b
+pubmatic.com, 162223, reseller, 5d62403b186f2ace
+rubiconproject.com, 17608, reseller, 0bfd66d529a55807
+appnexus.com, 13227, reseller
+smartadserver.com, 4140, reseller
+smaato.com, 1100042823, reseller, 07bcf65f187117b4
