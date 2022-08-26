@@ -156,3 +156,34 @@ rubiconproject.com, 17608, reseller, 0bfd66d529a55807
 appnexus.com, 13227, reseller
 smartadserver.com, 4140, reseller
 smaato.com, 1100042823, reseller, 07bcf65f187117b4
+yahoo.com, 59338, reseller
+admanmedia.com, 13, reseller
+rubiconproject.com, 14558, reseller, 0bfd66d529a55807
+yahoo.com, 59674, reseller, e1a5b5b6e3255540
+openx.com, 540866936, reseller, 6a698e2ec38604c6
+pubmatic.com, 158481, reseller, 5d62403b186f2ace
+xandr.com, 8804, reseller, f5ab79cb980f11d1
+adform.com, 2671, reseller
+smartadserver.com, 3713, reseller
+sonobi.com, 7b37f8ccbc, reseller, d1a215d9eb5aee9e
+inmobi.com, 3a4f7da341dd490cbb7dde02b126275e, reseller, 83e75a7ae333ca9d
+video.unrulymedia.com, 3948367200, reseller
+rhythmone.com, 3948367200, reseller, a670c89d4a324e47
+conversantmedia.com, 100308, reseller, 03113cd04947736d
+freewheel.tv, 1235279, reseller
+contextweb.com, 561913, reseller, 89ff185a4c4e857c
+axonix.com, 57869, reseller
+yeahmobi.com, 114122, direct
+rubiconproject.com, 24362, reseller, 0bfd66d529a55807
+pubmatic.com, 161136, reseller, 5d62403b186f2ace
+admanmedia.com, 990, reseller
+freewheel.tv, 1522338, reseller
+freewheel.tv, 1522514, reseller
+video.unrulymedia.com, 2736329702851206590, reseller
+rhythmone.com, 2736329702851206590, reseller, a670c89d4a324e47
+inmobi.com, 94262e51745c4a88863d51a61d0af6b6, reseller, 83e75a7ae333ca9d
+spotxchange.com, 284496, reseller, 7842df1d2fe2db34
+spotx.tv, 284496, reseller, 7842df1d2fe2db34
+springserve.com, 1247, reseller, a24eb641fc82e93d
+imds.tv, 82531, reseller, ae6c32151e71f19d
+synacor.com, 82531, reseller, e108f11b2cdf7d5b
