@@ -187,3 +187,35 @@ spotx.tv, 284496, reseller, 7842df1d2fe2db34
 springserve.com, 1247, reseller, a24eb641fc82e93d
 imds.tv, 82531, reseller, ae6c32151e71f19d
 synacor.com, 82531, reseller, e108f11b2cdf7d5b
+pubmatic.com, 161332, reseller, 5d62403b186f2ace
+yahoo.com, 59080, reseller
+sharethrough.com, moxxxn1j, reseller, d53b998a7bd4ecd2
+yieldmo.com, 3091564759074414941, reseller
+rhythmone.com, 6694405583287859332, reseller, a670c89d4a324e47
+video.unrulymedia.com, 6694405583287859332, reseller
+rubiconproject.com, 24364, reseller, 0bfd66d529a55807
+emxdgt.com, 2002, reseller, 1e1d41537f7cad7f
+triplelift.com, 10252, reseller, 6c33edb13117fd86
+consumable.com, 2001417, direct, aefcd3d2f45b5070
+targetspot.com, 297, direct, feb28ed826dcf532
+tritondigital.com, 106423, direct, 19b4454d0b87b58b
+adswizz.com, consumable, direct
+adtonos.com, pub3603521960, direct
+vidoomy.com, 2412786, direct
+pubmatic.com, 158408, reseller, 5d62403b186f2ace
+sonobi.com, 5b003395a5, reseller, d1a215d9eb5aee9e
+conversantmedia.com, 100087, direct, 03113cd04947736d
+media.net, 8cucb0790, direct
+google.com, pub-6694481294649483, reseller, f08c47fec0942fa0
+stitchvideo.tv, 719809, direct
+rubiconproject.com, 24228, reseller
+yahoo.com, 58986, reseller
+aol.com, 57992, reseller, e1a5b5b6e3255540
+yahoo.com, 57992, reseller, e1a5b5b6e3255540
+supermidas.com, 3443, direct
+pubmatic.com, 161056, reseller, 5d62403b186f2ace
+pubnative.net, 1007303, reseller, d641df8625486a7b
+pubnative.net, 1007055, reseller, d641df8625486a7b
+yandex.com, 94923424, reseller
+improvedigital.com, 1601, reseller
+rubiconproject.com, 24600, reseller, 0bfd66d529a55807
