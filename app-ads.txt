@@ -219,3 +219,35 @@ pubnative.net, 1007055, reseller, d641df8625486a7b
 yandex.com, 94923424, reseller
 improvedigital.com, 1601, reseller
 rubiconproject.com, 24600, reseller, 0bfd66d529a55807
+videoheroes.tv, 212439, reseller, 064bc410192443d8
+appnexus.com, 12976, reseller, f5ab79cb980f11d1
+smartadserver.com, 3964, reseller
+video.unrulymedia.com, 170071695, reseller
+yahoo.com, 59961, reseller, e1a5b5b6e3255540
+contextweb.com, 562794, reseller, 89ff185a4c4e857c
+sharethrough.com, k5wdgasp, reseller, d53b998a7bd4ecd2
+iqzone.com, iq154, reseller
+contextweb.com, 562569, reseller, 89ff185a4c4e857c
+adcolony.com, c7b2bb9f944ae42a, reseller, 1ad675c9de6b5176
+appnexus.com, 7351, direct, f5ab79cb980f11d1
+loopme.com, 11520, reseller, 6c8d5f95897a5a3b
+meitu.com, 755, direct
+pubmatic.com, 157654, reseller, 5d62403b186f2ace
+openx.com, 540899687, reseller, 6a698e2ec38604c6
+inmobi.com, 3d54d7dda27a4552a8184e9120251b9f, reseller, 83e75a7ae333ca9d
+inmobi.com, 55049d2e109d4ac1820ca1432dda4e13, reseller, 83e75a7ae333ca9d
+inmobi.com, 22e5354e453f49348325184e25464adb, reseller, 83e75a7ae333ca9d
+inmobi.com, 74cf0a83cd8e402484ef0f202e925fc7, reseller, 83e75a7ae333ca9d
+yahoo.com, 59966, reseller, e1a5b5b6e3255540
+smartadserver.com, 4467, reseller
+contextweb.com, 562827, reseller, 89ff185a4c4e857c
+e-planning.net, 949b688810cb7439, reseller
+algorix.co, 60543, reseller, 5b394c12fea27a1d
+openx.com, 540838151, reseller, 6a698e2ec38604c6
+themediagrid.com, fh3tkj, reseller, 35d5010d7789b49d
+rubiconproject.com, 20050, reseller, 0bfd66d529a55807
+smartadserver.com, 3817, reseller
+triplelift.com, 13043, reseller, 6c33edb13117fd86
+appnexus.com, 13297, reseller, f5ab79cb980f11d1
+xandr.com, 13297, reseller, f5ab79cb980f11d1
+pubmatic.com, 160974, reseller, 5d62403b186f2ace
