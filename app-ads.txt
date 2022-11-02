@@ -251,3 +251,14 @@ triplelift.com, 13043, reseller, 6c33edb13117fd86
 appnexus.com, 13297, reseller, f5ab79cb980f11d1
 xandr.com, 13297, reseller, f5ab79cb980f11d1
 pubmatic.com, 160974, reseller, 5d62403b186f2ace
+contextweb.com, 562762, reseller, 89ff185a4c4e857c
+instreamatic.com, 49, reseller
+ssp.e-volution.ai, ajxf6r349a9m6catvk, reseller
+smartadserver.com, 1247, reseller
+rubiconproject.com, 16824, reseller
+adform.com, 2664, reseller
+digimedllc.com, t3cugr351ni3eqcxtp, direct
+contextweb.com, 562769, reseller, 89ff185a4c4e857c
+sharethrough.com, j0nru1gr, reseller, d53b998a7bd4ecd2
+triplelift.com, 12913, reseller, 6c33edb13117fd86
+video.unrulymedia.com, 9085206363819624071, direct
