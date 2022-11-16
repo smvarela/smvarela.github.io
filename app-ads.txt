@@ -262,3 +262,16 @@ contextweb.com, 562769, reseller, 89ff185a4c4e857c
 sharethrough.com, j0nru1gr, reseller, d53b998a7bd4ecd2
 triplelift.com, 12913, reseller, 6c33edb13117fd86
 video.unrulymedia.com, 9085206363819624071, direct
+openx.com, 544015448, reseller, 6a698e2ec38604c6
+contextweb.com, 562669, reseller, 89ff185a4c4e857c
+conversantmedia.com, 100269, reseller, 03113cd04947736d
+algorix.co, 60543, direct, 5b394c12fea27a1d
+krushmedia.com, ajxf6r351a9m6catvk, reseller
+smartadserver.com, 4478, reseller
+video.unrulymedia.com, 9085206363819624071, reseller
+themediagrid.com, 6xgfyq, direct, 35d5010d7789b49d
+xapads.com, 117234, direct
+pubmatic.com, 157704, reseller, 5d62403b186f2ace
+contextweb.com, 562842, reseller, 89ff185a4c4e857c
+improvedigital.com, 1416, reseller
+appnexus.com, 13356, direct
