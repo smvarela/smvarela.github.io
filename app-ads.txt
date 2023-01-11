@@ -56,7 +56,6 @@ outbrain.com, 002d7f7ba0bd74452f2b155d0dfb5cd6c8, RESELLER
 pubmatic.com, 158565, RESELLER, 5d62403b186f2ace
 video.unrulymedia.com, 123476257, RESELLER
 inmobi.com, f58140d7af1a4fcb83deb5b1c76f0c04, RESELLER, 83e75a7ae333ca9d
-indexexchange.com, 192829, RESELLER, 50b1c356f2c5c8fc
 krushmedia.com, AJxF6R351a9M6CaTvK, DIRECT
 appnexus.com, 10605, RESELLER, f5ab79cb980f11d1
 adcolony.com, 8404137bc8673e51, RESELLER, 1ad675c9de6b5176
