@@ -274,3 +274,39 @@ pubmatic.com, 157704, reseller, 5d62403b186f2ace
 contextweb.com, 562842, reseller, 89ff185a4c4e857c
 improvedigital.com, 1416, reseller
 appnexus.com, 13356, direct
+pubnative.net, 1008289, reseller, d641df8625486a7b
+rhebus.works, 3865122407, reseller
+app-stock.com, 317847, reseller
+thebrave.io, 1234589, reseller, c25b2154543746ac
+gitberry.com, 577, reseller
+contextweb.com, 562791, reseller, 89ff185a4c4e857c
+loopme.com, 11318, reseller, 6c8d5f95897a5a3b
+ssp.e-volution.ai, ajxf6r118a9m6catvk, reseller
+lunamedia.io, 2fb901cd79f4453b90b68bee79da71b5, reseller, 524ecb396915caaf
+advlion.com, 3083, reseller
+lijit.com, 420355, reseller, fafdf38b16bf6b2b
+minutemedia.com, 01gjjdge6zcz, reseller
+pubmatic.com, 161018, reseller, 5d62403b186f2ace
+visiblemeasures.com, 1011, direct
+acexchange.co.kr, 1746357004, reseller
+pubmatic.com, 161344, reseller, 5d62403b186f2ace
+sonobi.com, ac6f1a9ded, reseller, d1a215d9eb5aee9e
+rubiconproject.com, 25060, reseller, 0bfd66d529a55807
+improvedigital.com, 1805, reseller
+adiiix.com, par-aa7b236ba32dd484c838e249362437b8, reseller
+aralego.com, par-aa7b236ba32dd484c838e249362437b8, reseller
+ucfunnel.com, par-aa7b236ba32dd484c838e249362437b8, reseller
+bematterfull.com, 22289765, reseller
+video.unrulymedia.com, 7418256711870870085, reseller
+inmobi.com, 30f3830cfef249a3ad46ee1a0bba7af3, reseller, 83e75a7ae333ca9d
+outbrain.com, 0023749a2264ea0429a71b54ac9ca0de9a, direct
+appnexus.com, 7597, reseller, f5ab79cb980f11d1
+contextweb.com, 562928, reseller, 89ff185a4c4e857c
+sonobi.com, 1cdc3b298d, direct, d1a215d9eb5aee9e
+contextweb.com, 560606, reseller, 89ff185a4c4e857c
+yahoo.com, 59875, reseller
+rubiconproject.com, 24856, reseller, 0bfd66d529a55807
+pubmatic.com, 156319, reseller, 5d62403b186f2ace
+smartadserver.com, 4295, reseller
+vidoomy.com, 5053058, direct
+adform.com, 2742, reseller
