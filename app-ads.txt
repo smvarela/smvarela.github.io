@@ -310,3 +310,26 @@ pubmatic.com, 156319, reseller, 5d62403b186f2ace
 smartadserver.com, 4295, reseller
 vidoomy.com, 5053058, direct
 adform.com, 2742, reseller
+brightcom.com, 29555, direct
+pubmatic.com, 162974, reseller, 5d62403b186f2ace
+rubiconproject.com, 25386, reseller, 0bfd66d529a55807
+zmaticoo.com, 114122, direct
+aralego.com, par-772a368972ed44370234b6aee42b643, reseller
+ucfunnel.com, par-772a368972ed44370234b6aee42b643, reseller
+adiiix.com, par-772a368972ed44370234b6aee42b643, reseller
+ucfunnel.com, par-d2346aab7abd36b4cdd7bbd264ba92e2, reseller
+aralego.com, par-d2346aab7abd36b4cdd7bbd264ba92e2, reseller
+adiiix.com, par-d2346aab7abd36b4cdd7bbd264ba92e2, reseller
+pubmatic.com, 161144, reseller, 5d62403b186f2ace
+pubmatic.com, 161368, reseller, 5d62403b186f2ace
+video.unrulymedia.com, 4173858586, reseller
+smartadserver.com, 4655, reseller, 060d053dcf45cbf3
+pubmatic.com, 156439, reseller, 5d62403b186f2ace
+pubmatic.com, 154037, reseller, 5d62403b186f2ace
+openx.com, 537149888, reseller, 6a698e2ec38604c6
+appnexus.com, 3703, reseller, f5ab79cb980f11d1
+xad.com, 958, reseller, 81cbf0a75a5e0e9a
+adyoulike.com, b4bf4fdd9b0b915f746f6747ff432bde, reseller
+axonix.com, 57264, reseller
+sharethrough.com, oaw69fon, reseller, d53b998a7bd4ecd2
+contextweb.com, 560288, reseller, 89ff185a4c4e857c
