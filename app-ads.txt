@@ -530,3 +530,4 @@ pubmatic.com, 160888, reseller, 5d62403b186f2ace
 inmobi.com, fe4db13744124582a6a2b18964560ce7, reseller, 83e75a7ae333ca9d
 smartadserver.com, 4395, reseller, 060d053dcf45cbf3
 contextweb.com, 563114, reseller, 89ff185a4c4e857c
+facebook.com, 264507509390835, DIRECT, c3e20eee3f780d68
