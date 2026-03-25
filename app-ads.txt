@@ -2,6 +2,7 @@ mopub.com, agltb3B1Yi1pbmNyIgsSB0FjY291bnQiFTEwODM1Mjg2Mjg4NzU4MTAyOTcyNAw, DIRE
 rubiconproject.com, 21648, RESELLER, 0bfd66d529a55807
 applovin.com, 0fdfd82dbdd284bead90627028af9562, DIRECT
 adyoulike.com, 2d578cf695c89ec2ba707280319d2020, RESELLER
+bidease.com, bidease_seller_26, RESELLER
 algorix.co, 60532, RESELLER, 5b394c12fea27a1d
 contextweb.com , 562615, RESELLER, 89ff185a4c4e857c
 gamaigroup.com, 423056, RESELLER
